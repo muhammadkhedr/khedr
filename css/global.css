@@ -1,1 +1,57 @@
 @charset "UTF-8";
+@import url("../fonts/DINWebPro_Light/stylesheet.css");
+@import url("../fonts/DINWebPro_Bold/stylesheet.css");
+@import url("../fonts/DINWebPro_Regular/stylesheet.css");
+
+body {
+	font-family: "DINWebPro Light";
+	color: #FFFFFF;
+	background-color: #1B1B1B;
+}
+.container {
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+footer {
+	margin-top: 15%;
+	margin-bottom: -1%;
+}
+.container .row.footer {
+	border-top: 0.05em solid #FFD01F;
+	padding-top: 2%;
+}
+.row {
+	padding-top: 5%;
+}
+.container-fluid .row.text-center {
+	background-color: #FFD301;
+	padding-bottom: 25px;
+	padding-top: 25px;
+	color: #000000;
+}
+.navbar.fixed-top.navbar-expand-lg #navbarSupportedContent1 {
+	position: fixed;
+	right: 7%;
+	color: #FFFFFF;
+}
+.nav-link {
+	color: #FFFFFF;
+}
+article {
+	font-family: "DINWebPro Bold";
+	font-size: 7em;
+	padding: 10% 2%;
+	line-height: 1em;
+}
+.navbar.fixed-top.navbar-expand-lg {
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.footer {
+}
+.jumbotron.text-center.mt-2 {
+	background-color: #000000;
+	color: #FFD01F;
+	font-family: "DINWebPro Regular";
+	font-size: 2em;
+}
