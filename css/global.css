@@ -9,11 +9,11 @@ body {
 	background-color: #1B1B1B;
 }
 .container {
-	margin-top: 5%;
+	margin-top: 3%;
 	margin-bottom: 5%;
 }
 footer {
-	margin-top: 15%;
+	margin-top: 10%;
 	margin-bottom: -1%;
 }
 .container .row.footer {
@@ -29,11 +29,6 @@ footer {
 	padding-top: 25px;
 	color: #000000;
 }
-.navbar.fixed-top.navbar-expand-lg #navbarSupportedContent1 {
-	position: fixed;
-	right: 7%;
-	color: #FFFFFF;
-}
 .nav-link {
 	color: #FFFFFF;
 }
@@ -43,15 +38,28 @@ article {
 	padding: 10% 2%;
 	line-height: 1em;
 }
-.navbar.fixed-top.navbar-expand-lg {
-	margin-top: 2%;
-	margin-left: 2%;
+ul ul a {
+	color: #FFFFFF;
 }
-.footer {
+.navbar.fixed-top.navbar-expand {
+	top: 1em;
+	left: 1em;
+}
+.navbar.fixed-top.navbar-expand #navbarSupportedContent1 {
+	position: fixed;
+	top: 2em;
+	right: 2em;
 }
 .jumbotron.text-center.mt-2 {
 	background-color: #000000;
 	color: #FFD01F;
 	font-family: "DINWebPro Regular";
 	font-size: 2em;
+}
+a {
+	color: #FFFFFF;
+}
+.container .row.footer .row {
+	margin-left: 20%;
+	margin-top: -4%;
 }
