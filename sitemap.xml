@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+<!-- created with Scrutiny from http://peacockmedia.software -->
+
+	<url>
+		<loc>https://khedr.co</loc>
+		<lastmod>2018-05-07</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1.0</priority>
+		<image:image>
+		<image:loc>https://khedr.co/favicon.ico</image:loc>
+		<image:title>[linked file]</image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://khedr.co/images/khedr-logo-White.svg</image:loc>
+		<image:title> khedr logo</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://khedr.co/index.html</loc>
+		<lastmod>2018-05-07</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+		<image:loc>https://khedr.co/favicon.ico</image:loc>
+		<image:title>[linked file]</image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://khedr.co/images/khedr-logo-White.svg</image:loc>
+		<image:title> khedr logo</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://khedr.co/other.html</loc>
+		<lastmod>2018-05-07</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+		<image:loc>https://khedr.co/favicon.ico</image:loc>
+		<image:title>[linked file]</image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://khedr.co/images/khedr-logo-White.svg</image:loc>
+		<image:title> khedr logo</image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://khedr.co/images/Top khedr.jpg</image:loc>
+		<image:title> Hero image khedr</image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://khedr.co/images/photography_khedr.jpg</image:loc>
+		<image:title> Photography khedr</image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://khedr.co/images/Gelato_design_khedr.png</image:loc>
+		<image:title> Cherif Morsi Website Design and Deployment</image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://khedr.co/images/Interior_retouch_khedr.jpg</image:loc>
+		<image:title> Interior Retouch khedr</image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://khedr.co/images/Elias_khedr.jpg</image:loc>
+		<image:title> Elias Dictionary Cover Design</image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://khedr.co/images/Fox_khedr.svg</image:loc>
+		<image:title> Third slide</image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://khedr.co/images/cherif_morsi_website_khedr.jpg</image:loc>
+		<image:title> Cherif Morsi Website Design and Deployment</image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://khedr.co/images/Interior_1_khedr.jpg</image:loc>
+		<image:title> Private Residence 1</image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://khedr.co/images/Interior_2_khedr.jpg</image:loc>
+		<image:title> Private Residence 2</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://khedr.co/about.html</loc>
+		<lastmod>2018-05-07</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+		<image:loc>https://khedr.co/favicon.ico</image:loc>
+		<image:title>[linked file]</image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://khedr.co/images/khedr-logo-White.svg</image:loc>
+		<image:title> khedr logo</image:title>
+		</image:image>
+		<image:image>
+		<image:loc>https://khedr.co/images/khedr.jpg</image:loc>
+		<image:title> Placeholder image</image:title>
+		</image:image>
+	</url>
+
+</urlset>

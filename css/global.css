@@ -2,6 +2,7 @@
 @import url("../fonts/DINWebPro_Light/stylesheet.css");
 @import url("../fonts/DINWebPro_Bold/stylesheet.css");
 @import url("../fonts/DINWebPro_Regular/stylesheet.css");
+@import url("../fonts/DINWebPro_Black/stylesheet.css");
 
 body {
 	font-family: "DINWebPro Light";
@@ -31,12 +32,6 @@ footer {
 }
 .nav-link {
 	color: #FFFFFF;
-}
-article {
-	font-family: "DINWebPro Bold";
-	font-size: 7em;
-	padding: 10% 2%;
-	line-height: 1em;
 }
 ul ul a {
 	color: #FFFFFF;
@@ -97,4 +92,14 @@ a {
 }
 #Marg {
 	margin-bottom: 3em;
+}
+#text {
+}
+#fluidtext {
+	font-size: 7.2vw;
+	text-align: left;
+	line-height: 100%;
+	margin-top: 15rem;
+	padding-left: 5%;
+	font-family: "DINWebPro Black";
 }
