@@ -6,7 +6,7 @@
 
 	<url>
 		<loc>https://khedr.co</loc>
-		<lastmod>2018-05-07</lastmod>
+		<lastmod>2018-05-13</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 		<image:image>
@@ -20,7 +20,7 @@
 	</url>
 	<url>
 		<loc>https://khedr.co/index.html</loc>
-		<lastmod>2018-05-07</lastmod>
+		<lastmod>2018-05-13</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 		<image:image>
@@ -34,7 +34,7 @@
 	</url>
 	<url>
 		<loc>https://khedr.co/other.html</loc>
-		<lastmod>2018-05-07</lastmod>
+		<lastmod>2018-05-13</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 		<image:image>
@@ -84,7 +84,7 @@
 	</url>
 	<url>
 		<loc>https://khedr.co/about.html</loc>
-		<lastmod>2018-05-07</lastmod>
+		<lastmod>2018-05-13</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 		<image:image>
